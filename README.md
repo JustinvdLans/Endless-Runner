@@ -14,3 +14,5 @@ This is my self made project for an endless runner
 [Art]
 
 [Trailer]
+
+Developer: Justin van der Lans
